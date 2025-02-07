@@ -47,7 +47,7 @@ The ensemble evaluation results are shown in **Table 3**.
 The result of deep visualization is demonstrated in Figure 1.
 
 <p align="center">
-    <img src="DL_LAB_Diabetic_Retinopathy_Detection/output_grad_cam/grad_cam.png" alt="Grad-CAM visualization" style="display:block; margin:auto;" />
+    <img src="dl-lab-24w-team04-master/DL_LAB_Diabetic_Retinopathy_Detection/output_grad_cam/grad_cam.png" alt="Grad-CAM visualization" style="display:block; margin:auto;" />
 </p>
 
                                                 Figure 1: Grad-CAM visualization of the model

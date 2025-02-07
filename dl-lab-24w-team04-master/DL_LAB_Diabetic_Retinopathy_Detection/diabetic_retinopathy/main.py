@@ -152,5 +152,5 @@ def main(argv):
         grad_cam_visualization(model = model_2)
 
 if __name__ == "__main__":
-    wandb.login(key="40c93726af78ad0b90c6fe3174c18599ecf9f619")
+    wandb.login(key="")
     app.run(main)

@@ -76,7 +76,7 @@ After training, we can get the results for both models: GRU and LSTM. See table 
 The result of confusion matrix for GRU is demonstrated in Figure 2.
 
 <p align="center">
-    <img src="DL_LAB_HAPT/gru.jpg" alt="Grad-CAM visualization" style="display:block; margin:auto;" />
+    <img src="dl-lab-24w-team04-master/DL_LAB_HAPT/gru.jpg" alt="Grad-CAM visualization" style="display:block; margin:auto;" />
 </p>
 
                                                 Figure 2: confusion matrix for GRU
@@ -84,7 +84,7 @@ The result of confusion matrix for GRU is demonstrated in Figure 2.
 The result of confusion matrix for LSTM is shown in Figure 3.
 
 <p align="center">
-    <img src="DL_LAB_HAPT/lstm.jpg" alt="Grad-CAM visualization" style="display:block; margin:auto;" />
+    <img src="dl-lab-24w-team04-master/DL_LAB_HAPT/lstm.jpg" alt="Grad-CAM visualization" style="display:block; margin:auto;" />
 </p>
 
                                                 Figure 3: confusion matrix for LSTM
